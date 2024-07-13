@@ -1,4 +1,4 @@
-### 👋 Hello! Welcome to my Github profile.
+### Hello! Welcome to my Github profile.
 ### My name is Morgana!
 #### I am studying Technical Computer Science at Fundatec and finishing high school. I like front-end and back-end development.
 #### I am learning
